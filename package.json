@@ -1,0 +1,13 @@
+{
+  "name": "pawdays-photo-backup",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Dependency-free browser-side ZIP archive backup helper with strict validation",
+  "scripts": {
+    "test": "node test.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
